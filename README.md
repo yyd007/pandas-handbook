@@ -1,1 +1,1 @@
-# pandas-handbook
+# pandas-playground
